@@ -11,3 +11,4 @@ The model used here for translating is the Attention Mechanism. It uses the fact
 
 Future Work:
 - Currently I am working on implementing the Actor-Critic Methods with Attention-Mechanism for an effective translation.
+- Instead ofjust using the attention mechanism as the Actor, I would like to use the Critic model based on the BLEU score to manage the variance on translation.
