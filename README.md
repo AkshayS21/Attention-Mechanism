@@ -8,3 +8,6 @@ This notebook is based on my project towards earning the Deep Learning Specializ
 
 
 The model used here for translating is the Attention Mechanism. It uses the fact that nearby words have a bigger effect on translation of the word that the farther words.
+
+Future Work:
+- Currently I am working on implementing the Actor-Critic Methods with Attention-Mechanism for an effective translation.
