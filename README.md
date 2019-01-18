@@ -7,4 +7,4 @@ go to this free notebook viewing website, https://nbviewer.jupyter.org/ and past
 This notebook is based on my project towards earning the Deep Learning Specialization Certificate at Coursera.Org taught by Andrew Ng.
 
 
-The model used here for translating is the Attention Mechanism.
+The model used here for translating is the Attention Mechanism. It uses the fact that nearby words have a bigger effect on translation of the word that the farther words.
