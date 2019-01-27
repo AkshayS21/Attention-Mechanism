@@ -11,7 +11,7 @@ The model used here for translating is the Attention Mechanism. It uses the fact
 
 Future Work:
 - Currently I am working on implementing the Actor-Critic Methods with Attention-Mechanism for an effective translation.
-- Instead ofjust using the attention mechanism as the Actor, I would like to use the Critic model based on the BLEU score to manage the variance on translation.
+- Instead of just using the attention mechanism as the Actor, I would like to use the Critic model based on the BLEU score to manage the variance on translation.
 - This will reduce the variance in predictions and overfitting.
 - I would like to use the critic model to generate the Q_Next and call the BLEU score as the reward.
 - Create a new class like an Environment in the typical Reinforcement learning task, call its reward the BLEU score and next_state as the next word to translate.
